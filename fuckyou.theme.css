@@ -2753,9 +2753,9 @@ foreignObject[Attributes Style] {
     }
     .containerCozy-jafyvG /* MESSAGE */
     {
-        padding-top: 5px;
-        padding-bottom: 15px;
-	}
+        padding-top: 20px;
+    	padding-bottom: 75px;
+}
     .theme-dark .headerCozyMeta-rdohGq {
         /* padding: 4px 5px 4px 6px; */
         background: var(--UsrBackgroundColor);
@@ -3168,7 +3168,7 @@ foreignObject[Attributes Style] {
     visibility: var(--avatarHidden);
 }
 .contentCozy-3XX413 {
-    margin-left: 160px;
+    margin-left: 210px;
 }
 .avatar-17mtNa {
     position: relative;
@@ -3709,6 +3709,18 @@ foreignObject[Attributes Style] {
 
 .fakeLink-11RWCQ {
     color: var(--link);
+}
+
+.containerCozy-jafyvG {
+    padding-bottom: 15px;
+    padding-top: 10px;
+    background-color: #20222524;
+    border: 1px solid #ffffff0a;
+    display: table;
+    margin: 6px 20px 6px 0em !important;
+    overflow: hidden;
+    min-width: 125px;
+    margin-right: 16px;
 }
 
 html,[style*=-image],[style*=-position],img,video,canvas,iframe:not(:-webkit-full-screen),.status-oxiHuE{filter:invert(1)}
