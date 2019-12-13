@@ -2760,7 +2760,7 @@ foreignObject[Attributes Style] {
         /* padding: 4px 5px 4px 6px; */
         background: var(--UsrBackgroundColor);
         /* margin-left: 13px; */
-        box-shadow: -3px 0px 0 var(--UsrTabColor) !important;
+        box-shadow: -3px 0px 0 #29250F !important;
         margin-left: -0.4em !important;
         transition: all .2s ease-in-out;
 	   }
@@ -3714,8 +3714,8 @@ foreignObject[Attributes Style] {
 .containerCozy-jafyvG {
     padding-bottom: 15px;
     padding-top: 10px;
-    background-color: #20222524;
-    border: 1px solid #ffffff0a;
+    background-color: #29250F;
+    border: 1px solid #29250F;
     display: table;
     margin: 6px 20px 6px 0em !important;
     overflow: hidden;
